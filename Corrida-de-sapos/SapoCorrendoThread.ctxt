@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SapoCorrendoThread
+comment1.params=nome\ distanciaTotalCorrida
+comment1.target=SapoCorrendoThread(java.lang.String,\ int)
+comment1.text=Construtor\ da\ classe.\ Par\u00E2mtros\ \:\ Nome\ do\ Sapo\ e\ Dist\u00E2ncia\ da\ Corrida
+comment2.params=
+comment2.target=void\ sapoImprimindoSituacao()
+comment2.text=Imprime\ o\ \u00FAltimo\ pulo\ do\ sapo\ e\ a\ dist\u00E2ncia\ percorrida
+comment3.params=
+comment3.target=void\ sapoPulando()
+comment3.text=Faz\ o\ sapo\ pular
+comment4.params=
+comment4.target=void\ sapoDescansando()
+comment4.text=Representando\ o\ descanso\ do\ sapo
+comment5.params=
+comment5.target=void\ colocacaoSapo()
+comment5.text=Imprime\ a\ coloca\u00E7\u00E3o\ do\ sapo\ ao\ final\ da\ corrida
+comment6.params=
+comment6.target=void\ run()
+comment6.text=M\u00E9todo\ run\ da\ thread\ Corrida\ de\ Sapos
+numComments=7

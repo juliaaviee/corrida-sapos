@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CorridaDeSapos
+comment0.text=Aplica\u00E7\u00E3o\ que\ simula\ uma\ corrida\ de\ sapos\ usando\ threads
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
